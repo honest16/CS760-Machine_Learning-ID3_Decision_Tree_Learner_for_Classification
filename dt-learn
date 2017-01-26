@@ -1,0 +1,2 @@
+chmod +x dt-learn
+python dt-learn.py $1 $2 $3
